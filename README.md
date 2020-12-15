@@ -43,6 +43,7 @@ Columns description:
 
 ### Pairplot
 ![image](https://user-images.githubusercontent.com/69633814/102201348-41018f00-3ec6-11eb-9066-12279950deca.png)
+
 ### Heatmap for correlation
 ![heatmap](https://user-images.githubusercontent.com/69633814/102201244-1c0d1c00-3ec6-11eb-9e18-83d2ff0843d7.png)
 
@@ -73,8 +74,9 @@ Comments:
 * Group 0 visited bank more than other groups - more than 2 times and up to 5 times.
 * Group 0 also less visited bank online compare to other groups.
 
+## kmeans cluster centers compare with features
 
-
+![Snip20201215_9](https://user-images.githubusercontent.com/69633814/102203475-ed447500-3ec8-11eb-8c4e-77170caf8d73.png)
 
 
 Comments:
