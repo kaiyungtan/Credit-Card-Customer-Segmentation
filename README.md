@@ -41,8 +41,11 @@ Columns description:
 
 ## EDA
 
+### Pairplot
+![image](https://user-images.githubusercontent.com/69633814/102201348-41018f00-3ec6-11eb-9066-12279950deca.png)
 
 ![heatmap](https://user-images.githubusercontent.com/69633814/102201244-1c0d1c00-3ec6-11eb-9e18-83d2ff0843d7.png)
+
 Comments:
 * Total credit cards and total visit online has medium positive correlation with average credit limit : 0.61,0.55 respectively.
 * Total credit cards and total visit bank has medium negative correlation with total calls made : -0.65,-0.5 respectively.
