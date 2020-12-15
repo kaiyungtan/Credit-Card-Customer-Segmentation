@@ -20,12 +20,15 @@ Data is of various customers of a bank with their credit limit, the total number
 
 
 ## Steps:
-• Perform univariate analysis on the data to better understand the variables and to get an idea about the number of clusters.
-• Perform EDA and get insights. 
-• Create visualizations to explore data and present the insights.  
-• Execute K-means clustering use elbow plot and analyse clusters using boxplot.
-• Execute hierarchical clustering (with different linkages) with the help of dendrogram and cophenetic coeff. 
-• Analyse clusters formed using boxplot. 
-• Calculate average silhouette score for both methods.  
-• Compare K-means clusters with Hierarchical clusters. 
-• Analysis the clusters formed, explain how one cluster different from another and answer all the key questions.  
+* Perform univariate analysis on the data to better understand the variables and to get an idea about the number of clusters.
+* Perform EDA and get insights. 
+* Create visualizations to explore data and present the insights.  
+* Execute K-means clustering use elbow plot and analyse clusters using boxplot.
+* Execute hierarchical clustering (with different linkages) with the help of dendrogram and cophenetic coeff. 
+* Analyse clusters formed using boxplot. 
+* Calculate average silhouette score for both methods.  
+* Compare K-means clusters with Hierarchical clusters. 
+* Analysis the clusters formed, explain how one cluster different from another and answer all the key questions.  
+
+
+## EDA
