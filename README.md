@@ -75,9 +75,7 @@ Comments:
 * Group 0 also less visited bank online compare to other groups.
 
 ### kmeans cluster centers compare with features
-
-![Snip20201215_9](https://user-images.githubusercontent.com/69633814/102203475-ed447500-3ec8-11eb-8c4e-77170caf8d73.png)
-
+![image](https://user-images.githubusercontent.com/69633814/102204027-a014d300-3ec9-11eb-87bf-3ec6f08d6a0d.png)
 
 Comments:
 
