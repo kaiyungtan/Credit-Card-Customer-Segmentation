@@ -19,7 +19,7 @@ service these customers?
 Data is of various customers of a bank with their credit limit, the total number of credit cards the customer has, and different channels through which customer has contacted the bank for any queries, different channels include visiting the bank, online and through a call centre.
 
 
-## Steps to follow:
+## Steps:
 • Perform univariate analysis on the data to better understand the variables and to get an idea about the number of clusters.
 • Perform EDA and get insights. 
 • Create visualizations to explore data and present the insights.  
