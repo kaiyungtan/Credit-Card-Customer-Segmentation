@@ -51,7 +51,7 @@ Comments:
 * Total credit cards and total visit bank has medium negative correlation with total calls made : -0.65,-0.5 respectively.
 * Total visit online and medium negative correlation with total visit bank : -0.55.
 
-### K-means Clustering - Boxplot for analyse clusters 
+## K-means Clustering - Boxplot for analyse clusters 
 
 ![image](https://user-images.githubusercontent.com/69633814/102201466-6f7f6a00-3ec6-11eb-8bac-17a09487ddab.png)
 
@@ -74,7 +74,7 @@ Comments:
 * Group 0 also less visited bank online compare to other groups.
 
 
-### Key Questions:
+## Key Questions:
 * How many different segments of customers are there?
          
       * There are 3 different segements of customers in AllLife Bank credit card customer base.   
