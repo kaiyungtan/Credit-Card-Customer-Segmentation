@@ -53,7 +53,7 @@ Comments:
 
 ## K-means Clustering - Boxplot for analyse clusters 
 
-![image](https://user-images.githubusercontent.com/69633814/102201466-6f7f6a00-3ec6-11eb-8bac-17a09487ddab.png)
+![image](https://user-images.githubusercontent.com/69633814/102203070-68595b80-3ec8-11eb-9634-bd1e86d984d1.png)
 
 ![image](https://user-images.githubusercontent.com/69633814/102201659-b40b0580-3ec6-11eb-8dc1-1bf18b8730e9.png)
 
@@ -72,6 +72,19 @@ Comments:
 * Group 1 has one attribute that is distinct from other group namely, customers who make calls more than 4 times.
 * Group 0 visited bank more than other groups - more than 2 times and up to 5 times.
 * Group 0 also less visited bank online compare to other groups.
+
+
+
+
+
+Comments:
+Group 2 has the highest value for Avg_Credit_Limit,Total_Credit_Cards & Total_visits_online.
+Group 2 has the lowest value for Total_visits_bank.
+Group 1 has the highest value for Total_calls_made.
+Group 1 has the lowest value for Avg_Credit_Limit & Total_Credit_Cards.
+Group 0 has the highest value for Total_visits_bank.
+Group 0 has the lowest value for Total_visits_online.
+K-means silhouette_score is 0.52072.
 
 
 ## Key Questions:
