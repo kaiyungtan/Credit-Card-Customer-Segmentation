@@ -74,19 +74,19 @@ Comments:
 * Group 0 visited bank more than other groups - more than 2 times and up to 5 times.
 * Group 0 also less visited bank online compare to other groups.
 
-## kmeans cluster centers compare with features
+### kmeans cluster centers compare with features
 
 ![Snip20201215_9](https://user-images.githubusercontent.com/69633814/102203475-ed447500-3ec8-11eb-8c4e-77170caf8d73.png)
 
 
 Comments:
-Group 2 has the highest value for Avg_Credit_Limit,Total_Credit_Cards & Total_visits_online.
-Group 2 has the lowest value for Total_visits_bank.
-Group 1 has the highest value for Total_calls_made.
-Group 1 has the lowest value for Avg_Credit_Limit & Total_Credit_Cards.
-Group 0 has the highest value for Total_visits_bank.
-Group 0 has the lowest value for Total_visits_online.
-K-means silhouette_score is 0.52072.
+
+* Group 2 has the highest value for Avg_Credit_Limit,Total_Credit_Cards & Total_visits_online.
+* Group 2 has the lowest value for Total_visits_bank.
+* Group 1 has the highest value for Total_calls_made.
+* Group 1 has the lowest value for Avg_Credit_Limit & Total_Credit_Cards.
+* Group 0 has the highest value for Total_visits_bank.
+* Group 0 has the lowest value for Total_visits_online.
 
 
 ## Key Questions:
