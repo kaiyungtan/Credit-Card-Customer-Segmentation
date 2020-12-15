@@ -121,7 +121,7 @@ Comments:
        * Customers who make moderate phone calls (0-4 times)
        * Majority of customers are in this group - 58.4%.
 
-## Recommendation
+## Recommendations
 
 * What are the recommendations to the bank on how to better market to and service these customers?
 
