@@ -72,3 +72,36 @@ Comments:
 * Group 1 has one attribute that is distinct from other group namely, customers who make calls more than 4 times.
 * Group 0 visited bank more than other groups - more than 2 times and up to 5 times.
 * Group 0 also less visited bank online compare to other groups.
+
+
+### Key Questions:
+* How many different segments of customers are there?
+         
+      * There are 3 different segements of customers in AllLife Bank credit card customer base.   
+     
+     
+* How are these segments different from each other?
+
+    Using k-means clustering labels as reference: (Group 0-2) 
+          
+       
+         Group 1
+       * Customers who have average credit limit below 25k and own credit cards 1-4 max.
+       * Customers who seldom visit bank 0-2 times.
+       * Customers who visit bank online moderately (1-5 times)
+       * Customers who make most phone calls (4-10 times)
+       * 34% of customers are in this group.  
+       
+         Group 2
+       * Customers who have average credit limit above 75k and own most credit cards 7-10 max.
+       * Customers who least visited bank 0-1 times.
+       * Customers who most visit bank online . (7-15 times)
+       * Customers who make least phone calls (0-2 times)
+       * Only 7.3% of customers are in this group. 
+       
+         Group 0
+       * Customers who have average credit limit between 25k and 75k and own credit cards 4-7 max.
+       * Customers who most visited bank  2-5 times.
+       * Customers who least visit bank online. (0-2 times)
+       * Customers who make moderate phone calls (0-4 times)
+       * Majority of customers are in this group - 58.4%.
