@@ -51,7 +51,24 @@ Comments:
 * Total credit cards and total visit bank has medium negative correlation with total calls made : -0.65,-0.5 respectively.
 * Total visit online and medium negative correlation with total visit bank : -0.55.
 
-### Boxplot for analyse clusters 
+### K-means Clustering - Boxplot for analyse clusters 
 
 ![image](https://user-images.githubusercontent.com/69633814/102201466-6f7f6a00-3ec6-11eb-8bac-17a09487ddab.png)
 
+![image](https://user-images.githubusercontent.com/69633814/102201659-b40b0580-3ec6-11eb-8dc1-1bf18b8730e9.png)
+
+![image](https://user-images.githubusercontent.com/69633814/102201684-bb321380-3ec6-11eb-8c57-1499979b4d3d.png)
+
+![image](https://user-images.githubusercontent.com/69633814/102201703-bff6c780-3ec6-11eb-9b27-6475abd7904d.png)
+
+![image](https://user-images.githubusercontent.com/69633814/102201625-aa819d80-3ec6-11eb-82d3-25280d88fead.png)
+
+Comments:
+* Group 2 has an obvious distinction compare to group 0 and 1.
+    * Customers who have average credit limit of 75k and above are in group 2.
+    * Customers who have more than 7 credit cards are in group 2.
+    * Customers who have visited online more than 6 times are in group 2.
+* Group 1 has less credit cards compare to other groups - 1-4 credit cards.
+* Group 1 has one attribute that is distinct from other group namely, customers who make calls more than 4 times.
+* Group 0 visited bank more than other groups - more than 2 times and up to 5 times.
+* Group 0 also less visited bank online compare to other groups.
