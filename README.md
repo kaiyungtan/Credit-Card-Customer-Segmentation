@@ -105,3 +105,16 @@ Comments:
        * Customers who least visit bank online. (0-2 times)
        * Customers who make moderate phone calls (0-4 times)
        * Majority of customers are in this group - 58.4%.
+
+## Recommendation
+
+* What are your recommendations to the bank on how to better market to and service these customers?
+
+       * Group 1 own less credit card than others, bank should target group 1 to upsell credit cards services.
+       * Besides, bank should provide higher credit limit to target group 0 where most of the customers are. 
+         With higher credit limit,group 0 would be able to spend more.
+       * Since group 0 use the online banking the least,bank should promote more to group 0 in order for them 
+         to use it.
+       * Assuming group 1 who make most phone calls are the customers perceive the support services of the bank 
+         poorly. Bank should target group 1 and provide better customers service by conducting feedback survey 
+         through phone.
