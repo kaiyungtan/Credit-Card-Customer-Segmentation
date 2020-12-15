@@ -123,7 +123,7 @@ Comments:
 
 ## Recommendation
 
-* What are your recommendations to the bank on how to better market to and service these customers?
+* What are the recommendations to the bank on how to better market to and service these customers?
 
        * Group 1 own less credit card than others, bank should target group 1 to upsell credit cards services.
        * Besides, bank should provide higher credit limit to target group 0 where most of the customers are. 
