@@ -18,6 +18,14 @@ service these customers?
 
 Data is of various customers of a bank with their credit limit, the total number of credit cards the customer has, and different channels through which customer has contacted the bank for any queries, different channels include visiting the bank, online and through a call centre.
 
+Columns description:
+1. Sl_No Customer Key	- Customer Key is unique number for each customer. 
+2. Avg_Credit_Limit	- average credit limit for each customer.
+3. Total_Credit_Cards	- totalnumber of credit cards each customer own.
+4. Total_visits_bank - total number of times customer visit bank
+5. Total_visits_online	- total number of times customer visit online banking
+6. Total_calls_made - total number of times customer make calls to bank.
+
 
 ## Steps:
 * Perform univariate analysis on the data to better understand the variables and to get an idea about the number of clusters.
